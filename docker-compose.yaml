@@ -1,5 +1,5 @@
 services:
-  qdwe353i6:
+  adcwrtl756f:
     build: .
     shm_size: 2.6gb
     ports:
